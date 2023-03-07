@@ -1,0 +1,6 @@
+git clone link -> add repo to current directory (also initiats and remotes it)
+git add filename -> adds file to staging area
+git commit -m 'message' -> commits current staging area
+git push -> push to remote controled repo on github
+git push origin master -> push to repo on github
+
